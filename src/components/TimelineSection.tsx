@@ -26,7 +26,7 @@ const timelineData = [
 ];
 
 const TimelineSection = () => (
-  <section id="journey" className="py-24 px-6 bg-secondary/30">
+  <section id="journey" className="py-24 px-6">
     <div className="container mx-auto max-w-3xl">
       <motion.h2
         initial={{ opacity: 0, y: 20 }}
